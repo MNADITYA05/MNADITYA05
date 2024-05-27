@@ -9,11 +9,11 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 🎓 Education: ECE with a specialization in Data Science.
 
 💻 Fields of Interest:
-->Embedded Systems
-->Machine Learning
-->Deep Learning
-->Natural Language Processing (NLP)
-->Computer Vision (CV)
+* Embedded Systems
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Computer Vision (CV)
 
 🔍 Looking for: Opportunities to work on real-time projects and collaborate on innovative solutions.
 
