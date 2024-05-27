@@ -19,8 +19,8 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 🔍 Looking for: Opportunities to work on real-time projects and collaborate on innovative solutions.
 
 📫 How to Reach Me
-Email: an8594@srmist.edu.in.
-LinkedIn: www.linkedin.com/in/aditya-narayanan-0820392a4
+* Email: an8594@srmist.edu.in.
+* LinkedIn: www.linkedin.com/in/aditya-narayanan-0820392a4
 
 🛠️ Skills
 * Programming Languages: Python, C, C++
