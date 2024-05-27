@@ -6,6 +6,7 @@ My interests span across various domains such as Embedded Systems, Machine Learn
 I am highly motivated to work on real-time projects and eager to contribute to innovative solutions.
 
 🚀 About Me
+
 🎓 Education: ECE with a specialization in Data Science.
 
 💻 Fields of Interest:
