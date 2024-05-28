@@ -23,7 +23,7 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 * LinkedIn: www.linkedin.com/in/aditya-narayanan-0820392a4
 
 🛠️ Skills
-* Programming Languages: Python, C, C++
+* Programming Languages: Python, C, R
 * Machine Learning & Data Science: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
 * Embedded Systems: Arduino
 * Tools & Platforms: Git, Jupyter Notebooks, COLAB,MATLAB
