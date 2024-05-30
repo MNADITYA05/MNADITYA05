@@ -28,6 +28,7 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 * Machine Learning & Data Science: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
 * Embedded Systems: Arduino
 * Tools & Platforms: Git, Jupyter Notebooks, COLAB,MATLAB
+
 To Know more about me [Click here](https://sites.google.com/srmist.edu.in/m-n-aditya/introduction?authuser=1)
 
 <!---
