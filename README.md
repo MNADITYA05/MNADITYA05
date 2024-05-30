@@ -24,6 +24,7 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 
 🛠️ Skills
 * Programming Languages: Python, C, R
+* PCB Design Software: EasyEDA
 * Machine Learning & Data Science: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
 * Embedded Systems: Arduino
 * Tools & Platforms: Git, Jupyter Notebooks, COLAB,MATLAB
