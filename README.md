@@ -1,4 +1,4 @@
-Hi there,I'm M N Aditya 👋
+Hi there,I'm **M N Aditya** 👋
 
 Welcome to my GitHub profile!
 I am currently pursuing BTECH Electronics and Communication Engineering (ECE) with a specialization in Data Science in SRM INSTITUTE OF SCIENCE AND TECHNOLOGY.
@@ -29,7 +29,7 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 * Embedded Systems: Arduino
 * Tools & Platforms: Git, Jupyter Notebooks, COLAB,MATLAB
 
-To Know more about me [Click here](https://sites.google.com/srmist.edu.in/m-n-aditya/introduction?authuser=1)
+To Know more about me [**Click here**](https://sites.google.com/srmist.edu.in/m-n-aditya/introduction?authuser=1)
 
 <!---
 MNADITYA05/MNADITYA05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
