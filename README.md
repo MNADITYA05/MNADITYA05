@@ -1,4 +1,4 @@
-Hi there,I'm **Aditya** **👋**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there,I'm **Aditya** 
 
 Welcome to my GitHub profile!
 I am currently pursuing BTECH Electronics and Communication Engineering (ECE) with a specialization in Data Science in SRM INSTITUTE OF SCIENCE AND TECHNOLOGY.
