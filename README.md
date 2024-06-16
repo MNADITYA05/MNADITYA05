@@ -31,7 +31,7 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 
 To Know more about me [**Click here**](https://sites.google.com/srmist.edu.in/m-n-aditya/introduction?authuser=1)
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=MNADITYA05.MNADITYA05)
+
 
 
 <!---
