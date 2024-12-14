@@ -17,7 +17,9 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 * Deep Learning
 * Natural Language Processing (NLP)
 * Computer Vision (CV)
-* Embedded Systems 
+* Embedded Systems
+
+
 🔍 Looking for: Opportunities to work on real-time projects and collaborate on innovative solutions.
 
 📫 How to Reach Me
