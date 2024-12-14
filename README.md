@@ -1,3 +1,5 @@
+🚀 About Me
+
 Hi there,I'm **Aditya**  **👋**
 
 Welcome to my GitHub profile!
@@ -5,7 +7,7 @@ I am currently pursuing BTECH Electronics and Communication Engineering (ECE) wi
 My interests span across various domains such as Biomedical Image Processing, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision (CV). 
 I am highly motivated to work on real-time projects and eager to contribute to innovative solutions.
 
-🚀 About Me
+
 
 🎓 Education: ECE with a specialization in Data Science.
 
