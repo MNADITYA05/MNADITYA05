@@ -15,8 +15,8 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 * Biomedical Image Processing 
 * Machine Learning
 * Deep Learning
+* Generative AI (Gen AI)
 * Natural Language Processing (NLP)
-* Computer Vision (CV)
 * Embedded Systems
 
 
