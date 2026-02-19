@@ -36,7 +36,11 @@ I am highly motivated to work on real-time projects and eager to contribute to i
 To Know more about me [**Click here**](https://sites.google.com/srmist.edu.in/m-n-aditya/introduction?authuser=1)
 
 
+## 📊 GitHub Contributions
 
+<p align="center">
+  <img src="https://github.com/MNADITYA05/MNADITYA05/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" />
+</p>
 
 
 
