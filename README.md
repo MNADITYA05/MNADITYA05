@@ -1,5 +1,3 @@
-🚀 About Me
-
 Hi there,I'm **Aditya**  **👋**
 
 Welcome to my GitHub profile!
