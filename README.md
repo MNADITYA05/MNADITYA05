@@ -30,21 +30,16 @@ I bridge the gap between embedded systems and cutting-edge AI — from designing
 - **Open To:** Research collaborations, internships & innovative projects
 
 ---
-
 ## 💻 Fields of Interest
 
-<div align="center">
-
-| 🔍 XAI & Vision | 🏥 Medical AI | 🤖 Generative & Agentic AI | 📡 Learning Paradigms |
-|:---:|:---:|:---:|:---:|
-| Explainable AI (XAI) | Medical Image Segmentation | Generative AI | Federated Learning |
-| Computer Vision | Biomedical Signal Analysis | Agentic AI Systems | Reinforcement Learning |
-| Object Detection | Dental & Tumor Analysis | NLP & ASR | Self-Supervised Learning |
-
-</div>
+- 👁️ Computer Vision
+- 🏥 Biomedical Imaging
+- 🛰️ Geospatial Imaging
+- 🤖 Agentic AI
+- 🔍 Explainable AI (XAI)
+- 🌐 Federated Learning
 
 ---
-
 ## 🛠️ Tech Stack & Skills
 
 <details>
