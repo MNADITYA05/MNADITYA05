@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm **Aditya Narayanan**, a passionate engineer at the intersection of **hardware and intelligence**. Currently pursuing **B.Tech in ECE with a specialization in Data Science** at **SRM Institute of Science and Technology**.
+I'm **Aditya**, a passionate engineer at the intersection of **hardware and intelligence**. Currently pursuing **B.Tech in ECE with a specialization in Data Science** at **SRM Institute of Science and Technology**.
 
 I bridge the gap between embedded systems and cutting-edge AI — from designing circuits to building neural networks that can see, understand, and generate.
 
