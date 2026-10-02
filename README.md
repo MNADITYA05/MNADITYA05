@@ -18,9 +18,9 @@
 
 ## 🚀 About Me
 
-I'm **Aditya**, a passionate engineer at the intersection of **hardware and intelligence**. Currently pursuing **B.Tech in ECE with a specialization in Data Science** at **SRM Institute of Science and Technology**.
+I'm **Aditya**, a final-year ECE undergraduate with **8 peer-reviewed publications** across Scopus and IEEE venues, and research experience at **5 national institutes** including IITs, NITs, and IIIT. Currently pursuing **B.Tech in ECE with a specialization in Data Science** at **SRM Institute of Science and Technology** (2023 - 2027).
 
-I bridge the gap between embedded systems and cutting-edge AI — from designing circuits to building neural networks that can see, understand, and generate.
+My work spans **federated learning**, **medical image segmentation**, and **agentic LLM systems** — deployed on edge hardware including **Raspberry Pi** and **FPGA** platforms.
 
 - **Degree:** B.Tech — ECE + Data Science @ SRMIST
 - **Focus Area:** Computer Vision & Agentic AI
@@ -32,13 +32,16 @@ I bridge the gap between embedded systems and cutting-edge AI — from designing
 ---
 ## 💻 Fields of Interest
 
-- 👁️ Computer Vision
-- 🏥 Biomedical Imaging
-- 🛰️ Geospatial Imaging
-- 🤖 Agentic AI
-- 🔍 Explainable AI (XAI)
-- 🌐 Federated Learning
+```bash
+$ cat research_interests.txt
 
+[CV]  Computer Vision       → YOLOv11n | OpenCV | real-time defect detection
+[BI]  Biomedical Imaging    → liver tumour segmentation | dental radiographs | pneumonia detection
+[GI]  Geospatial Imaging    → land submergence analysis | Random Forest + XAI
+[AA]  Agentic AI            → LangGraph multi-agent pipelines | RAG systems
+[XAI] Explainable AI        → SHAP | Grad-CAM | clinical interpretability
+[FL]  Federated Learning    → edge deployment | FedDQPrune | TinyFedPrompt
+```
 ---
 ## 🛠️ Tech Stack & Skills
 
@@ -80,7 +83,6 @@ I bridge the gap between embedded systems and cutting-edge AI — from designing
 <br/>
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </details>
