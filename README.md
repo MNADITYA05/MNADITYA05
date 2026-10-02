@@ -154,6 +154,5 @@ $ cat research_interests.txt
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <i>"Building intelligence that works where connectivity doesn't."</i>
   <sub>⭐ Feel free to star repos you find interesting!</sub>
 </div>
