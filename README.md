@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm **Aditya**, a final-year ECE undergraduate with **8 peer-reviewed publications** across Scopus and IEEE venues, and research experience at **5 national institutes** including IITs, NITs, and IIIT. Currently pursuing **B.Tech in ECE with a specialization in Data Science** at **SRM Institute of Science and Technology** (2023 - 2027).
+I'm **Aditya**, a final-year ECE undergraduate with **peer-reviewed publications** across Scopus and IEEE venues, and research experience at **5 national institutes** including IITs, NITs, and IIIT. Currently pursuing **B.Tech in ECE with a specialization in Data Science** at **SRM Institute of Science and Technology** (2023 - 2027).
 
 My work spans **federated learning**, **medical image segmentation**, and **agentic LLM systems** — deployed on edge hardware including **Raspberry Pi** and **FPGA** platforms.
 
